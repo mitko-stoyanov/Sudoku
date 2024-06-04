@@ -51,7 +51,7 @@ This repository contains a Python implementation of a Sudoku solver for 9x9 Sudo
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/sudoku-solver.git
+    git clone https://github.com/mitko-stoyanov/Sudoku
     cd sudoku-solver
     ```
 
